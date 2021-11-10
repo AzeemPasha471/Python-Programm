@@ -1,7 +1,7 @@
 
 '''
 @Author: Md Azeem pasha
-@Date: 2021-11-07
+@Date: 2021-11-10
 @Title :pritn the @D array'''
 
 
