@@ -2,7 +2,7 @@
 '''
 @Author: Md Azeem pasha
 @Date: 2021-11-10
-@Title :pritn the @D array'''
+@Title :pritn the 2D array'''
 
 
 '''
