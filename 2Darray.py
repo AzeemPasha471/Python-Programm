@@ -1,8 +1,7 @@
 '''
 @Author: Md Azeem pasha
 @Date: 2021-11-10
-@Title :pritn the 2D array'''
-
+@Title :print the 2D array'''
 
 row_num = int(input("Input number of rows: "))
 col_num = int(input("Input number of columns: "))
